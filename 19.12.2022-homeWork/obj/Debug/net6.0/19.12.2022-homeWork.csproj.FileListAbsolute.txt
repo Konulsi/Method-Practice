@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\bin\Debug\net6.0\19.12.2022-homeWork.exe
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\bin\Debug\net6.0\19.12.2022-homeWork.deps.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\bin\Debug\net6.0\19.12.2022-homeWork.runtimeconfig.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\bin\Debug\net6.0\19.12.2022-homeWork.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\bin\Debug\net6.0\19.12.2022-homeWork.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\refint\19.12.2022-homeWork.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\19.12.2022-homeWork.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\ClassTask\19.12.2022-homeWork\19.12.2022-homeWork\obj\Debug\net6.0\ref\19.12.2022-homeWork.dll
